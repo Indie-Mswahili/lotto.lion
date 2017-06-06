@@ -36,7 +36,7 @@ $ sudo nano /etc/nginx/sites-available/lottoapi.odinsoftware.co.kr
 		}
     }
  
- ``
+ ```
 
 $ sudo nginx -t && sudo nginx -s reload
 
