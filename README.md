@@ -1,23 +1,23 @@
-# ·Î¶Ç»çÀÚ(lotto.lion)
+# ë¡œë˜ì‚¬ìž(lotto.lion)
 
-- Android ¾Û: https://play.google.com/store/apps/details?id=kr.co.odinsoftware.LION
+- Android ì•±: https://play.google.com/store/apps/details?id=kr.co.odinsoftware.LION
 
-- iOS ¾Û: (°³¹ß Áß)
+- iOS ì•±: (ê°œë°œ ì¤‘)
 
-## ÇöÀç(2017³â 06¿ù 20ÀÏ) ´çÃ· ÀÌ·Â
+## í˜„ìž¬(2017ë…„ 06ì›” 20ì¼) ë‹¹ì²¨ ì´ë ¥
 
 ```
-1µî;     6°ÔÀÓ; 12,423,767,558¿ø
-2µî;    56°ÔÀÓ;  2,871,429,495¿ø
-3µî; 1,893°ÔÀÓ;  2,743,854,693¿ø
-4µî;94,836°ÔÀÓ;  5,073,455,261¿ø
+1ë“±;     6ê²Œìž„; 12,423,767,558ì›
+2ë“±;    56ê²Œìž„;  2,871,429,495ì›
+3ë“±; 1,893ê²Œìž„;  2,743,854,693ì›
+4ë“±;94,836ê²Œìž„;  5,073,455,261ì›
 ```
 
-## ½Ã¿ë ¹æ¹ý
+## ì‹œìš© ë°©ë²•
 
-- ¸ð¹ÙÀÏ ¾ÛÀ» ¹ÞÀ¸½Å ÈÄ È¸¿ø °¡ÀÔÀ» ÇÏ¿©¾ß ÇÕ´Ï´Ù.
-- ¸ÅÁÖ °¡ÀÔ ÇÏ½Å ¸ÞÀÏ ÁÖ¼Ò·Î ¾ö¼±µÈ ¹øÈ£¸¦ ¹ß¼Û ÇØ µå¸³´Ï´Ù.
-- ¾ÛÀÇ ¼³Á¤ È­¸é¿¡¼­ ¹Þ°íÀÚ ÇÏ´Â °ÔÀÓ¼ö·®°ú ÁöÁ¤¹øÈ£¸¦ ¼³Á¤ °¡´É ÇÕ´Ï´Ù.
+- ëª¨ë°”ì¼ ì•±ì„ ë°›ìœ¼ì‹  í›„ íšŒì› ê°€ìž…ì„ í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤.
+- ë§¤ì£¼ ê°€ìž… í•˜ì‹  ë©”ì¼ ì£¼ì†Œë¡œ ì—„ì„ ëœ ë²ˆí˜¸ë¥¼ ë°œì†¡ í•´ ë“œë¦½ë‹ˆë‹¤.
+- ì•±ì˜ ì„¤ì • í™”ë©´ì—ì„œ ë°›ê³ ìž í•˜ëŠ” ê²Œìž„ìˆ˜ëŸ‰ê³¼ ì§€ì •ë²ˆí˜¸ë¥¼ ì„¤ì • ê°€ëŠ¥ í•©ë‹ˆë‹¤.
 
 
 ## License
@@ -26,7 +26,9 @@ Read [LICENSE](LICENSE)
 
 ## Donations
 
-BTC: 15DAoUfaCanpBpTs7VQBK8dRmbQqEnF9WG
+- BTC: 15DAoUfaCanpBpTs7VQBK8dRmbQqEnF9WG
+
+- ETH: 0x556E7EdbcCd669a42f00c1Df53D550C00814B0e3
 
 ## Contact
 
