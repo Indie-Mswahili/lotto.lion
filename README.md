@@ -2,7 +2,7 @@
 
 - Android 앱: https://play.google.com/store/apps/details?id=kr.co.odinsoftware.LION
 
-- iOS 앱: (개발 중)
+- iOS 앱: https://itunes.apple.com/us/app/%EB%A1%9C%EB%98%90%EC%82%AC%EC%9E%90-lottolion/id1236106275?l=ko&ls=1&mt=8
 
 ## 2017년07월30일 현재 1등 당첨 이력
 
